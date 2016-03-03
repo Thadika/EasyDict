@@ -1,5 +1,9 @@
 # EasyDict Dictionary
 An easy-to-use English Sinhalese Dictionary.
+
+
+<img src="https://raw.githubusercontent.com/thadika/EasyDict/master/images/mother.png">
+
 - Implemented with C#
 - works with Windows Vista & later
 
